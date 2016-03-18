@@ -1,0 +1,4 @@
+City = MADRID , degreees= 21 
+City = SEVILLA , degreees= 56 
+City = LUGO , degreees= 1 
+City = BARCELONA , degreees= 33 
